@@ -1,5 +1,7 @@
 <div align="center">
-  ### Hi there, i'm Cauã Rufino de Sá!
+  ## Hi there, i'm Cauã Rufino de Sá!
+
+  <br>
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CauaDeSa&show_icons=true&theme=dracula" alt="GitHub Stats" width="auto"  height="168"/>
