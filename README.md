@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Cauã Rufino de Sá!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CauaDeSa&show_icons=true&theme=dracula" alt="GitHub Stats" width="auto"  height="168"/>
@@ -8,6 +8,7 @@
 <br>
 <br>
 
+## Known languages
 <div align="center" >
   <img alt="c#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   &nbsp;
