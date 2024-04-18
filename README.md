@@ -1,8 +1,6 @@
 <div align="center">
-  ## Hi there, i'm Cauã Rufino de Sá!
-
+  <h1> Hi there, i'm Cauã Rufino de Sá! </h1>
   <br>
-  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CauaDeSa&show_icons=true&theme=dracula" alt="GitHub Stats" width="auto"  height="168"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaDeSa&layout=compact&theme=dracula" alt="Top Languages" width="auto" height="168"/>
