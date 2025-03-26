@@ -19,7 +19,7 @@
   
   <br>
   
-  ## Known Technology
+  ## Known technologies
   
   <div align="center" >
     <img alt="c#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
